@@ -1,0 +1,28 @@
+inserta_derecha amarillo
+inserta_derecha verde
+inserta_derecha violeta
+inserta_izquierda azul
+inserta_derecha azul
+pregunta
+inserta_izquierda rojo
+pregunta
+inserta_izquierda violeta
+inserta_derecha amarillo
+inserta_derecha rojo
+pregunta
+inserta_izquierda verde
+pregunta
+FIN
+inserta_derecha blanco
+inserta_derecha negro
+inserta_derecha gris
+inserta_derecha negro
+inserta_derecha blanco
+pregunta
+compra_izquierda
+pregunta
+inserta_derecha blanco
+pregunta
+FIN
+compra_derecha
+FIN
